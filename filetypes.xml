@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <removed_mapping ext="es" type="ActionScript" />
+      <mapping ext="es" type="ECMAScript 6" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
